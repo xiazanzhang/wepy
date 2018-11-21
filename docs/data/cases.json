@@ -504,6 +504,14 @@
             "opensource": "",
             "qrcode": "https://pic.juncao.cc/cms/images/project/rssfeed/app.png",
             "company": ""
+        },
+        {
+            "name": "万师傅家庭版",
+            "email": "wukonglive@outlook.com",
+            "link": "http://www.wanshifu.com/",
+            "opensource": "",
+            "qrcode": "https://raw.githubusercontent.com/xiazanzhang/assets/master/images/gh_93a4493485e1_344.jpg",
+            "company": ""
         }
     ]
 }
